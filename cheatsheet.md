@@ -1,7 +1,6 @@
 # javaBasics
 Semantics: 
-https://www.ukessays.com/essays/business/hrm-for-recruitment-and-selection-process-business-essay.php
-
+https://www.lenovo.com/in/en/incepp/d/deals/business?sort=sortBy&currentResultsLayoutType=grid
 Java is a platform and a programming language. It is a high-level language, Its characters are: 
 - object-oriented language
 - architecture neutral
